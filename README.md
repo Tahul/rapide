@@ -1,4 +1,10 @@
-# rapide
+# 🏎 Rapide
+
+The _new-gen_ experience with **Nuxt 2**.
+
+- 🚀 [**Vite**](http://vitejs.dev/) included
+- 💨 [**WindiCSS**](https://windicss.netlify.app/), the fast Tailwind experience
+- ✨ [**TypeScript**](https://typescript.nuxtjs.org/) support
 
 ## Build Setup
 
@@ -16,5 +22,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
