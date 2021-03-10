@@ -1,30 +1,10 @@
 <template>
-  <div class="container">
-    <div>
-      <Logo />
-      <h1 class="title">rapide</h1>
-    </div>
+  <div class="flex w-full h-full items-center justify-center flex-col">
+    <Logo />
+    <h1
+      class="mt-6 font-bold font-sans block font-bold text-red-400 italic text-6xl"
+    >
+      Rapide
+    </h1>
   </div>
 </template>
-
-<style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 600;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 4px;
-  font-style: italic;
-}
-</style>
