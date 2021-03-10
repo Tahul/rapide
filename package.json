@@ -13,7 +13,6 @@
   "dependencies": {
     "@nuxtjs/composition-api": "^0.22.0",
     "core-js": "^3.8.3",
-    "nuxt": "^2.15.2",
     "nuxt-edge": "^2.16.0-26922275.d55864da"
   },
   "devDependencies": {
