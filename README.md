@@ -2,7 +2,8 @@
 
 The _new-gen_ experience with **Nuxt 2**.
 
-- 🩸 [**Bleeding edge**](https://www.npmjs.com/package/nuxt-edge) Nuxt version
+- 🧪 [**Latest**](https://www.npmjs.com/package/nuxt-edge) Nuxt version
+- 🌊 [**Composition API**](https://composition-api.nuxtjs.org/), the new Vue paradigm
 - 🚀 [**Vite**](http://vitejs.dev), the modern bundler
 - 💨 [**WindiCSS**](https://windicss.netlify.app), the fast Tailwind experience
 - ✨ [**TypeScript**](https://typescript.nuxtjs.org) support
