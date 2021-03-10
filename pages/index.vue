@@ -1,9 +1,7 @@
 <template>
-  <div class="flex w-full h-full items-center justify-center flex-col">
+  <div class="flex flex-col items-center justify-center w-full h-full">
     <Logo />
-    <h1
-      class="mt-6 font-bold font-sans block font-bold text-red-400 italic text-6xl"
-    >
+    <h1 class="block mt-6 font-sans text-6xl italic font-bold text-red-400">
       Rapide
     </h1>
   </div>
