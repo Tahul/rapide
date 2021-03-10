@@ -8,6 +8,8 @@ The _new-gen_ experience with **Nuxt 2**.
 - 💨 [**WindiCSS**](https://windicss.netlify.app), the fast Tailwind experience
 - ✨ [**TypeScript**](https://typescript.nuxtjs.org) support
 
+Try it on [**CodeSandbox**](https://codesandbox.io/s/github/Tahul/rapide)
+
 ## Build Setup
 
 ```bash
