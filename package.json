@@ -11,9 +11,10 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
+    "@nuxtjs/composition-api": "^0.22.0",
     "core-js": "^3.8.3",
     "nuxt": "^2.15.2",
-    "nuxt-edge": "^2.16.0-26920836.0d686799"
+    "nuxt-edge": "^2.16.0-26922275.d55864da"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.2",
@@ -27,6 +28,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^7.7.0",
     "nuxt-vite": "^0.0.29",
+    "nuxt-windicss-module": "^0.2.1",
     "prettier": "^2.2.1"
   }
 }
