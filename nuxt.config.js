@@ -20,9 +20,12 @@ export default {
 
   components: true,
 
-  buildModules: ['nuxt-vite', '@nuxt/typescript-build'],
+  buildModules: [
+    'nuxt-vite',
+    '@nuxt/typescript-build',
+    'nuxt-windicss-module',
+    '@nuxtjs/composition-api',
+  ],
 
   modules: [],
-
-  build: {},
 }
