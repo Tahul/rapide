@@ -1,4 +1,6 @@
-export default {
+import { defineNuxtConfig } from '@nuxtjs/composition-api'
+
+export default defineNuxtConfig({
   target: 'static',
 
   head: {
@@ -23,4 +25,4 @@ export default {
   buildModules: ['nuxt-vite', '@nuxt/typescript-build', 'nuxt-windicss-module'],
 
   modules: [],
-}
+})
