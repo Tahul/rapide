@@ -22,7 +22,7 @@ export default defineNuxtConfig({
 
   components: true,
 
-  buildModules: ['nuxt-vite', '@nuxt/typescript-build', 'nuxt-windicss-module'],
+  buildModules: ['nuxt-vite', '@nuxt/typescript-build', 'nuxt-windicss'],
 
   modules: [],
 })
