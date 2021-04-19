@@ -48,5 +48,24 @@ export default {
   /**
    * Docs: https://fr.nuxtjs.org/docs/2.x/configuration-glossary/configuration-modules#buildmodules
    */
-  buildModules: ['nuxt-vite', '@nuxt/typescript-build', 'nuxt-windicss']
+  buildModules: [
+    /**
+     * Docs: https://vite.nuxtjs.org/
+     */
+    'nuxt-vite',
+    /**
+     * Docs: https://typescript.nuxtjs.org/
+     */
+    '@nuxt/typescript-build',
+    /**
+     * Docs: https://github.com/windicss/nuxt-windicss-module
+     * WindiCSS Docs: https://windicss.org/
+     */
+    'nuxt-windicss'
+    /**
+     * Peer modules:
+     * - Composition API
+     * - Docs: https://composition-api.nuxtjs.org/
+     */
+  ]
 }
