@@ -46,10 +46,7 @@
       <stop offset="0" stop-color="#37474f" />
       <stop offset="1" stop-color="#263238" />
     </linearGradient>
-    <polygon
-      fill="url(#lhrrVoe4yAakJPe45E4pZc)"
-      points="20,30 17,30 15,25 16,25"
-    />
+    <polygon fill="url(#lhrrVoe4yAakJPe45E4pZc)" points="20,30 17,30 15,25 16,25" />
     <linearGradient
       id="lhrrVoe4yAakJPe45E4pZd"
       x1="33.5"
@@ -351,13 +348,7 @@
       <stop offset="0" stop-color="#fdd835" />
       <stop offset="1" stop-color="#f9a825" />
     </linearGradient>
-    <rect
-      width="6"
-      height="1"
-      x="1"
-      y="41"
-      fill="url(#lhrrVoe4yAakJPe45E4pZu)"
-    />
+    <rect width="6" height="1" x="1" y="41" fill="url(#lhrrVoe4yAakJPe45E4pZu)" />
     <linearGradient
       id="lhrrVoe4yAakJPe45E4pZv"
       x1="26.704"
