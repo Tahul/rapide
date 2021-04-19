@@ -11,7 +11,7 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
-    "@nuxtjs/composition-api": "^0.23.2",
+    "@nuxtjs/composition-api": "0.22.1",
     "nuxt-edge": "^2.16.0-26979859.88ea02c4"
   },
   "devDependencies": {
