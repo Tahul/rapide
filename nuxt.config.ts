@@ -61,11 +61,12 @@ export default {
      * Docs: https://github.com/windicss/nuxt-windicss-module
      * WindiCSS Docs: https://windicss.org/
      */
-    'nuxt-windicss'
+    'nuxt-windicss',
     /**
      * Peer modules:
      * - Composition API
      * - Docs: https://composition-api.nuxtjs.org/
      */
+    '@nuxtjs/composition-api/module'
   ]
 }
