@@ -11,8 +11,8 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
-    "@nuxtjs/composition-api": "0.22.1",
-    "nuxt-edge": "^2.16.0-26979859.88ea02c4"
+    "@nuxtjs/composition-api": "0.23.3",
+    "nuxt-edge": "^2.16.0-26992818.8e2cad5a"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.4",
@@ -20,12 +20,12 @@
     "@nuxtjs/eslint-config-typescript": "^6.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.24.0",
-    "eslint-config-prettier": "^8.2.0",
+    "eslint": "^7.25.0",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-vue": "^7.9.0",
-    "nuxt-vite": "^0.0.36",
+    "nuxt-vite": "^0.0.37",
     "nuxt-windicss": "^0.5.4",
     "prettier": "^2.2.1"
   }
