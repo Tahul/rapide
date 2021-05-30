@@ -1,3 +1,5 @@
+import { resolve } from 'path'
+
 export default {
   /**
    * Docs: https://fr.nuxtjs.org/docs/2.x/configuration-glossary/configuration-target
@@ -68,5 +70,12 @@ export default {
      * - Docs: https://composition-api.nuxtjs.org/
      */
     '@nuxtjs/composition-api/module'
-  ]
+  ],
+  /**
+   * WindiCSS configuration
+   * WindiCSS Docs: https://windicss.org/
+   */
+  windicss: {
+    config: resolve(__dirname, 'windi.config.ts')
+  }
 }
