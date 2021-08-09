@@ -1,6 +1,7 @@
 import { resolve } from 'path'
+import { NuxtConfig } from '@nuxt/types'
 
-export default {
+export default <NuxtConfig>{
   /**
    * Docs: https://fr.nuxtjs.org/docs/2.x/configuration-glossary/configuration-target
    */
